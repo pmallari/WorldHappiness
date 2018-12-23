@@ -1,4 +1,4 @@
-# WorldHappiness
+# World Happiness
 
 The project aims to show how the 'Happiness Score' of each country and how it is affected by individual metrics measured through surveys.
 
