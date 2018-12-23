@@ -8,10 +8,10 @@ Simply fork the notebook to your local. See deployment for notes on how to deplo
 
 ### Prerequisites
 
-Numpy\n
-Pandas\n
-Matplotlib\n
-Seaborn
+<li>Numpy</li>
+<li>Pandas</li>
+<li>Matplotlib</li>
+<li>Seaborn</li>
 
 ### Authors
 
